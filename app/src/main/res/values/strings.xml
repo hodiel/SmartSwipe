@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Smart Swipe</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_title">Smart Swipe</string>
+    <string name="password_hint">(password will appear here)</string>
+    <string name="desc_btn_one">keypad button one.</string>
+    <string name="desc_btn_teo">keypad button two.</string>
+    <string name="desc_btn_three">keypad button three.</string>
+    <string name="desc_btn_four">keypad button four.</string>
+    <string name="desc_btn_five">keypad button five.</string>
+    <string name="desc_btn_six">keypad button six.</string>
+    <string name="desc_btn_seven">keypad button seven.</string>
+    <string name="desc_btn_eight">keypad button eight.</string>
+    <string name="desc_btn_nine">keypad button nine.</string>
+    <string name="desc_btn_clear">keypad button clear.</string>
+    <string name="desc_btn_zero">keypad button zero.</string>
+    <string name="desc_btn_enter">keypad button enter.</string>
+</resources>
